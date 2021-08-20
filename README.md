@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RihannaEmil 
 - 👀 I’m interested in ML and ...
-- 🌱 I’m currently learning to design a recommended system
+- 🌱 I’m currently learning to design a recommender system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: telegram:@rihannaemil Instagram:rihanna_emil 
 
