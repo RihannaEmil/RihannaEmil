@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and ...
 - 🌱 I’m currently learning to design a recommender system
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: telegram:@rihannaemil Instagram:rihanna_emil 
+- 📫 How to reach me: telegram:@RihannaEmil Instagram:rihanna_emil 
 
 <!---
 RihannaEmil/RihannaEmil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
